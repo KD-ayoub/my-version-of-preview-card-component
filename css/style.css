@@ -1,0 +1,92 @@
+
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+.section-background{
+    background-color:  white;
+}
+.width{
+    width: 375px;
+}
+/* .height{
+    height: 500px;
+} */
+.object-fit{
+    object-fit: cover;
+}
+.border-radius{
+    border-radius: 10px;
+    overflow: hidden;
+}
+.font-size-14{
+    font-size: 14px;
+}
+.font-size-15\.5{
+    font-size: 15.5px;
+}
+.font-size-36{
+    font-size: 36px;
+}
+.font-family-montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+.font-family-fraunces{
+    font-family: 'Fraunces', serif;
+}
+.text-color-grayish-blue{
+    color: hsl(228, 12%, 48%);
+}
+.text-color-dark-blue{
+    color: hsl(212, 21%, 14%);
+}
+.text-color-dark-cian{
+    color: hsl(158, 36%, 37%);
+}
+.letter-spacing{
+    letter-spacing: 5px;
+}
+.padding-text{
+    padding: 25px;
+}
+.margin-0{
+    margin: 0px;
+}
+.margin-top-10{
+    margin: 10px 0 0 0;
+}
+.margin-top-15{
+    margin: 15px 0 0 0;
+}
+.line-height-1{
+    line-height: 1;
+}
+.line-height-1\.6{
+    line-height: 1.6;
+}
+.text-decoration{
+    text-decoration: line-through;
+}
+.button{
+    background-color: hsl(158, 36%, 37%);
+    border: none;
+    padding: 15px 109px;
+    border-radius: 10px;
+}
+.text-white{
+    color: white;
+}
+.display-flex{
+    display: flex;
+}
+.align-items{
+    align-items: center;
+}
+.gap-20{
+    gap: 20px;
+}
+.gap-10{
+    gap: 10px;
+}
+.margin-n15{
+    margin: -15px 0 0 0;
+}
